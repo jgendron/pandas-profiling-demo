@@ -1,0 +1,10 @@
+name: profiling
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - pandas-profiling=2.9.0
+  - jupyter
+  - watermark
