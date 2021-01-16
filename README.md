@@ -1,4 +1,5 @@
-# Short demonstration of pandas-profiling package for An Evening of Python Coding
+# Short demonstration of pandas-profiling package
+*for An Evening of Python Coding*
 
 ## Demonstration files:
 * environment.yml containing dependencies
